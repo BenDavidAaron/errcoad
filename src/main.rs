@@ -9,5 +9,5 @@ fn main() {
         })
         .collect();
 
-    println!("{}", random_string);
+    print!("{}", random_string);
 }
